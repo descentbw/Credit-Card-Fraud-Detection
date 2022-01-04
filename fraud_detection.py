@@ -1,5 +1,5 @@
 """
-Note: This project is still in progress. As my computer was damaged, much of my work remains unretreivable.
+Note: This project is still in progress.
 """
 
 import pandas as pd
